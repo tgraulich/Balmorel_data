@@ -1,5 +1,5 @@
                                                                                
-PARAMETER TECH_GROUP_VALUE(TECH_GROUP)              'Technology Groups value'  
+PARAMETER TECH_GROUP_VALUE(TYPES)              'Technology Groups value'  
 /                                                                              
 STEAMTURBINE_SUBCRITICAL         STEAMTURBINE_SUBCRITICAL                      
 STEAMTURBINE_SUPERCRITICAL     STEAMTURBINE_SUPERCRITICAL                      

@@ -11,7 +11,7 @@
 * however, this may become invalid, so you shold use only the FDACRONYM.                                                                                     
                                                                                                                                                              
                                                                                                                                                              
-TABLE FDATA(FFF,FDATASET)   'Fuel specific values'                                                                                                           
+TABLE FDATA(TYPES, FDATASET)   'Fuel specific values'                                                                                                           
 * Merge biofuel-related fuels?                                                                                                                               
                                                                                                             FDACRONYM          FDNB FDCO2 FDSO2 FDN2O        
 *                                                                                                           Units                   kg/GJ kg/GJ kg/GJ        

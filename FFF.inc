@@ -1,6 +1,6 @@
 * The set of all fuels:                                                            
                                                                                    
-SET FFF  'Fuels'                                                                   
+SET FFF(TYPES<)  'Fuels'                                                                   
 /                                                                                  
 NUCLEAR                                                                            
 NATGAS                                                                             

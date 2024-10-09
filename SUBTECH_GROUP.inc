@@ -1,4 +1,4 @@
-SET SUBTECH_GROUP           'SubTechnology Groups'  
+SET SUBTECH_GROUP(TYPES<)           'SubTechnology Groups'  
 /                                                   
 RG1                                                 
 RG2                                                 

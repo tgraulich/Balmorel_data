@@ -1,6 +1,5 @@
-                                              
-                                              
-SET TECH_GROUP           'Technology Groups'  
+                                                                                            
+SET TECH_GROUP(TYPES<)           'Technology Groups'  
 /                                             
 STEAMTURBINE_SUBCRITICAL                      
 STEAMTURBINE_SUPERCRITICAL                    
@@ -23,5 +22,4 @@ WINDTURBINE_ONSHORE
 WINDTURBINE_OFFSHORE                          
 BACKUP_ELECTRICITY                            
 BACKUP_HEAT                                   
-/;                                            
-                                              
+/;                                                                                       
