@@ -33,7 +33,7 @@ MONTENEGRO
 NORTH_MACEDONIA                              
 BOSNIA_AND_HERZEGOVINA                       
 SERBIA                                       
-*TURKEY                                       
+TURKEY                                       
 MALTA                                        
 CYPRUS
                                 
